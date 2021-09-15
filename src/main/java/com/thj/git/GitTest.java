@@ -8,5 +8,8 @@ public class GitTest {
         System.out.println("还是优秀的程序员");
         System.out.println("秀而是你吗");
         System.out.println("秀而是还是你吗");
+        System.out.println("运气不好");
+        
+
     }
 }
