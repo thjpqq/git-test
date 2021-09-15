@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("秀而是你吗");
         System.out.println("秀而是还是你吗");
         System.out.println("运气不好");
+         System.out.println("运气还是不好");
         
 
     }
